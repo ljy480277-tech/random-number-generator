@@ -1,0 +1,6 @@
+{
+  "name": "AI Receipt Bill Splitter",
+  "description": "Split bills with ease using AI receipt parsing and a smart natural language chat interface to assign costs proportionally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
